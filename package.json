@@ -1,0 +1,15 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "Node Farm Project with our own API / Vanilla Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Rohan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
